@@ -1,0 +1,80 @@
+.service{
+
+}
+h6{
+	color: #40e901;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+h1{
+	font-size: 30px;
+    text-transform: capitalize;
+    color: #000;
+}
+h3{
+    text-transform: capitalize;
+    font-size: 24px;
+    padding: 10px 0px;
+}
+.service-inner, .feature-inner{
+padding: 20px;
+}
+.service-inner img{
+
+}
+p{
+	font-size: 16px;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color: #40e901;
+}
+.dropdown-item:hover{
+	color: #40e901;
+}
+.feature-inner p{
+margin-bottom: 0px;
+}
+.partner .btn{
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    padding: 10px 20px;
+}
+.partner{
+	padding: 60px 0px;
+}
+.partner h6{
+	
+}
+.partner h1{
+	 font-size: 60px;
+    font-weight: 500;
+}
+.partner p{
+	padding: 15px 0px;
+}
+.partners{
+	text-align: center;
+}
+@media(max-width: 768px){
+	.partner h1{
+	    font-size: 30px;
+    font-weight: 500;
+}
+}
+
+@media (max-width: 576px) { 
+.list-unstyled{
+	text-align: center;
+}
+
+	... }
